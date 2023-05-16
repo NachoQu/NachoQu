@@ -1,53 +1,37 @@
-<h1 align="center">¡Bienvenido a mi Perfil de GitHub! 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://your_image_url_here" alt="Foto de Perfil" width="200" height="200">
-</p>
+# ¡Hola, soy Ignacio Quantin! 👋
 
-<p align="center">
-  ¡Hola! Soy [Tu Nombre], un apasionado [tu profesión o área de interés] con una sed insaciable de conocimiento y creatividad. Aquí encontrarás una visión única de mi trabajo, proyectos emocionantes y contribuciones a la comunidad de código abierto.
-</p>
+**Fullstack Developer | Apasionado por la tecnología Inteligencia Artificial, Blockchain y Solidity**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=dark" alt="Estadísticas de GitHub">
-</p>
+¡Bienvenido a mi perfil de GitHub! Aquí encontrarás una muestra de mis proyectos más importantes. Mi objetivo es fusionar tecnología, creatividad y blockchain para construir soluciones innovadoras y seguras.
 
-## 🔭 Mis Proyectos Destacados
+</div>
 
-- [Proyecto 1](enlace_al_proyecto): Breve descripción o etiqueta
-- [Proyecto 2](enlace_al_proyecto): Breve descripción o etiqueta
-- [Proyecto 3](enlace_al_proyecto): Breve descripción o etiqueta
+## 🚀 Proyectos Destacados
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=dark" alt="Lenguajes más utilizados">
-</p>
+- [Proyecto 1](enlace_al_proyecto): PROXIMAMENTE..
+- [Proyecto 2](enlace_al_proyecto): PROXIMAMENTE..
+- [Proyecto 3](enlace_al_proyecto): PROXIMAMENTE..
 
-## 🌱 Mis Habilidades
+## 🌟 Habilidades y Tecnologías
 
-- **Lenguajes de Programación**: [Lista de lenguajes en los que tienes experiencia]
-- **Tecnologías**: [Lista de tecnologías o herramientas en las que eres competente]
-- **Metodologías**: [Lista de metodologías o enfoques que aplicas]
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tu_usuario&theme=darkhub" alt="Trofeos de GitHub">
-</p>
-
-## 🌟 Contribuciones Destacadas
-
-- [Contribución 1](enlace_a_la_contribución): Descripción breve o etiqueta
-- [Contribución 2](enlace_a_la_contribución): Descripción breve o etiqueta
-- [Contribución 3](enlace_a_la_contribución): Descripción breve o etiqueta
+- **Lenguajes de Programación**: JavaScript
+- **Frontend**: React
+- **Backend**: Node.js, Express
+- **Bases de Datos**: MongoDB, MySQL
+- **Blockchain**: Ethereum, Solidity 
 
 ## 📫 Cómo Contactarme
 
-Si deseas colaborar en proyectos emocionantes o simplemente quieres decir "¡Hola!", no dudes en contactarme. Puedes encontrarme en:
+Si quieres colaborar en proyectos emocionantes o simplemente quieres hablar de blockchain, no dudes en contactarme. Puedes encontrarme en:
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](enlace_a_tu_perfil_de_LinkedIn)
-- [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](enlace_a_tu_perfil_de_Twitter)
-- [![Sitio Web](https://img.shields.io/badge/-Sitio%20Web-brightgreen?style=flat-square&logo=wordpress&logoColor=white)](enlace_a_tu_sitio_web)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-quantin/)
+- [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ignacioquantin)
+- [![Sitio Web](https://img.shields.io/badge/-Sitio%20Web-brightgreen?style=flat-square&logo=firefox&logoColor=white)](https://www.ignacioquantin.com)
 
 ## ⚡ Dato Curioso
 
-¡[Dato curioso sobre ti]!
+¡Amante de la comida plant based, correr por las montañas, hacer Yoga y filmaciones con drones!
 
-¡Gracias por visitar mi perfil! Explora mi trabajo, contribuciones y proyectos destacados. Estoy emocionado por las oportunidades de colaboración y el aprendizaje continuo en el mundo del [tu campo
+¡Gracias por visitar mi perfil! Explora mis proyectos, contribuciones y habilidades. Estoy emocionado por las oportunidades de colaboración y el aprendizaje continuo en el mundo del desarrollo fullstack y blockchain. ¡No dudes en contactarme y comenzar una conversación!
