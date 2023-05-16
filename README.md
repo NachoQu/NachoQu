@@ -2,7 +2,7 @@
 
 # ¡Hola, soy Nacho! 👋
 
-**Fullstack Developer | Apasionado por la tecnología Inteligencia Artificial, Blockchain y Solidity**
+**Fullstack Developer | Apasionado por la Tecnología, Educación, Inteligencia Artificial, Blockchain y Solidity**
 
 ¡Bienvenido a mi perfil de GitHub! Aquí encontrarás una muestra de mis proyectos más importantes. Mi objetivo es fusionar tecnología, creatividad y blockchain para construir soluciones innovadoras y seguras.
 
