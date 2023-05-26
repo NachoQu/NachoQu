@@ -10,7 +10,7 @@
 
 ## 🚀 Proyectos Destacados
 
-- [Proyecto 1](https://github.com/NachoQu/ClimaApp.git): ClimaApp
+- [Proyecto 1](https://github.com/NachoQu/ClimaApp.git) - [Video de muestra](https://drive.google.com/file/d/1uezH-5RPJLq5l6so1sRUsXFPOqAsI6f3/view?usp=drive_link): ClimaApp
 - [Proyecto 2](enlace_al_proyecto): PROXIMAMENTE..
 - [Proyecto 3](enlace_al_proyecto): PROXIMAMENTE..
 
