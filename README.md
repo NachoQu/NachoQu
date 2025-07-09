@@ -2,36 +2,71 @@
 
 # ¡Hola, soy Nacho! 👋
 
-**Fullstack Developer | Apasionado por la Tecnología, Educación, Inteligencia Artificial, Blockchain y Solidity**
+**NoCode Maker | Fundador de Plano | EdTech & Web Dev | Creador de Productos Digitales**
 
-¡Bienvenido a mi perfil de GitHub! Aquí encontrarás una muestra de mis proyectos más importantes. Mi objetivo es fusionar tecnología, creatividad y blockchain para construir soluciones innovadoras y seguras.
+¡Bienvenido a mi perfil de GitHub! Soy Ignacio Quantin, desarrollador de soluciones digitales sin código. Desde **Plano**, mi marca personal, ayudo a empresas, colegios y emprendedores a lanzar sus sitios web, automatizar tareas y escalar sus operaciones usando herramientas **NoCode** como Framer, Lovable, Supabase, Make y más.
+
+Combino tecnología, diseño y educación para crear experiencias digitales accesibles, funcionales y sostenibles.
 
 </div>
 
-## 🚀 Proyectos Destacados
+---
 
-- [Proyecto 1](https://github.com/NachoQu/ClimaApp.git) - [Video de muestra](https://drive.google.com/file/d/1uezH-5RPJLq5l6so1sRUsXFPOqAsI6f3/view?usp=drive_link): ClimaApp
-- [Proyecto 2](enlace_al_proyecto): PROXIMAMENTE..
-- [Proyecto 3](enlace_al_proyecto): PROXIMAMENTE..
+## 🚀 Proyectos Reales (Plano)
 
-## 🌟 Habilidades y Tecnologías
+- [Plano – Sitio Oficial](https://www.planoweb.com.ar/)
+- [Sur Interiorismo](https://www.surinteriorismo.com/)
+- [Street Barber](https://www.streetbarber.com.ar/)
+- [Chiaramonte & Sánchez](https://www.chiaramontesanchez.com.ar/)
+- [ICE Argentina](https://www.iceargentina.com/)
+- [Key Transaction](https://www.keytransaction.com.ar/)
+- [Agrogy](https://www.agrogy.com/)
 
-- **Lenguajes de Programación**: JavaScript
-- **Frontend**: React
-- **Backend**: Node.js, Express
-- **Bases de Datos**: MongoDB, MySQL
-- **Blockchain**: Ethereum, Solidity 
+### 🔧 En desarrollo
+
+- [Catem Pallets (Lovable)](https://catem-pallet-web.lovable.app/)
+- [RHM Aislaciones (Lovable)](https://rhm-aislaciones-avanzadas-web.lovable.app/)
+- [Green Pampa (Framer)](https://big-try-783297.framer.app/)
+
+---
+
+## 🧪 Proyectos Educativos y Experimentales
+
+- [Budget Booster](https://budget-booster.lovable.app/) – App de cashflow personal.
+- [EdTech Spark](https://edtech-spark-landing.lovable.app/) – Landing de servicios para colegios.
+- [Casa Interactiva](https://divain-casa-pastel.lovable.app/) – Interiorismo con enlaces de producto.
+- [ArgentinoFlix](https://argentino-flix-ranker.lovable.app/) – Ranking de películas argentinas con IA.
+
+---
+
+## 🌟 Habilidades y Herramientas
+
+- **NoCode & Automatización**: Framer, Lovable, Webflow, Make, Airtable, Tally, Supabase, Google Workspace
+- **EdTech**: Implementación de plataformas de comunicación, educación híbrida y automatización escolar
+- **Diseño y Prototipado**: UI/UX, diseño de experiencias web, validación de ideas
+- **Base de programación tradicional**: JavaScript, React, Node.js, Solidity
+
+---
 
 ## 📫 Cómo Contactarme
 
-Si quieres colaborar en proyectos emocionantes o simplemente quieres hablar de blockchain, no dudes en contactarme. Puedes encontrarme en:
+¿Querés colaborar en un proyecto, sumar digitalización a tu empresa o colegio, o simplemente charlar de tecnología?
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-quantin/)
 - [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ignacioquantin)
-- [![Sitio Web](https://img.shields.io/badge/-Sitio%20Web-brightgreen?style=flat-square&logo=firefox&logoColor=white)](https://www.ignacioquantin.com)
+- [![Plano Web](https://img.shields.io/badge/-Plano%20Web-brightgreen?style=flat-square&logo=firefox&logoColor=white)](https://www.planoweb.com.ar/)
+
+---
 
 ## ⚡ Dato Curioso
 
-¡Amante de la comida plant based, correr por las montañas, hacer Yoga y filmaciones con drones!
+📍 Vivo en Luján, Buenos Aires  
+🧘‍♂️ Practico yoga, vuelo drones y soy papá de Rufino  
+🎙️ Conduzco *Sin Código*, un programa sobre IA, NoCode y tecnología  
+🌱 Apasionado por la educación, la tecnología accesible y el diseño web útil
 
-¡Gracias por visitar mi perfil! Explora mis proyectos, contribuciones y habilidades. Estoy emocionado por las oportunidades de colaboración y el aprendizaje continuo en el mundo del desarrollo fullstack y blockchain. ¡No dudes en contactarme y comenzar una conversación!
+---
+
+Gracias por visitar mi perfil 🙌  
+Explorá mis proyectos, inspirate, y si algo te resuena, ¡conectemos!
+
