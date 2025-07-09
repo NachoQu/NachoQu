@@ -26,7 +26,7 @@ Combino tecnología, diseño y educación para crear experiencias digitales acce
 
 - [Catem Pallets (Lovable)](https://catem-pallet-web.lovable.app/)
 - [RHM Aislaciones (Lovable)](https://rhm-aislaciones-avanzadas-web.lovable.app/)
-- [Green Pampa (Framer)](https://big-try-783297.framer.app/)
+- [Pachakuyuy](https://big-try-783297.framer.app/)
 
 ---
 
